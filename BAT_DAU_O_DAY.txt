@@ -1,0 +1,23 @@
+MỘT CHÚT BÌNH YÊN — WEBSITE TÂM SỰ
+=================================
+
+1. MUỐN XEM NGAY:
+   Mở thư mục web → nhấn đúp index.html.
+   Website chạy chế độ XEM THỬ với các câu phản hồi minh họa.
+
+2. MUỐN AI TRẢ LỜI THẬT:
+   Đọc README.md, mục B (Cloudflare Worker + API key).
+   Không được nhập API key vào file HTML hay config.js.
+
+3. MUỐN LÊN GITHUB PAGES:
+   Tải 5 file trong thư mục web lên một repo GitHub MỚI.
+   Không đụng tới website GitHub Pages hiện có.
+   Đọc README.md, mục C để bật Pages và tên miền .dev.
+
+4. GIAO DIỆN:
+   Đổi chữ, thông điệp trong web/index.html.
+   Đổi màu trong web/styles.css.
+   Đổi cách ứng xử của bot trong worker/src/index.mjs (SYSTEM_INSTRUCTIONS).
+
+CHÚ Ý: Không có API key thì chỉ chạy chế độ XEM THỬ,
+không tự sinh ra câu trả lời bằng mô hình AI thực sự.
